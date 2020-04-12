@@ -9,7 +9,7 @@ var URLS = [
   '/hikersblog/bshelang.html',
   '/hikersblog/bsipatir.html',
   '/hikersblog/contact.html',
-  '/hikersblog/journal.html,
+  '/hikersblog/journal.html',
 ]
 
 self.addEventListener('fetch', function (e) {

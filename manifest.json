@@ -2,7 +2,6 @@
   "name": "hikersblog",
   "short_name": "hiB",
   "start_url": "/hikersblog/index.html",
-  "scope": "/hikersblog/",
   "display": "standalone",
   "background_color": "#fdfdfd",
   "theme_color": "#db4938",
